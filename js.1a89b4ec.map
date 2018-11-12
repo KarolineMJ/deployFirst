@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/index.js"],"names":["saySomething","console","log","window","addEventListener"],"mappings":";AAEA,SAASA,IACPC,QAAQC,IAAI,eAHdC,OAAOC,iBAAiB,mBAAoBJ","file":"js.1a89b4ec.map","sourceRoot":"..","sourcesContent":["window.addEventListener(\"DOMContentLoaded\", saySomething);\r\n\r\nfunction saySomething() {\r\n  console.log(\"hello there\");\r\n}\r\n"]}
